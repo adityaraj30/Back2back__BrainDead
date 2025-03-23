@@ -21,27 +21,14 @@ Back2back_BrainDead/
 │── Project_Report.pdf               # Project report for our submission
 ```
 
-Summary Statistics
+## Summary Statistics
+| Metric        | Score  |
+|--------------|--------|
+| ROUGE-1      | 0.4622 |
+| ROUGE-2      | 0.2143 |
+| ROUGE-L      | 0.2951 |
+| BLEU         | 0.1230 |
 
-Metric
-
-Score
-
-ROUGE-1
-
-0.4622
-
-ROUGE-2
-
-0.2143
-
-ROUGE-L
-
-0.2951
-
-BLEU
-
-0.1230
 
 ### While running our notebook please make sure that all the datasets and mapping dictionary should be there in proper directory structure
 
