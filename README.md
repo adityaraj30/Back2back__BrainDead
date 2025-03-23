@@ -7,18 +7,18 @@ Back2back_BrainDead/
 │── Problem_Statement_1/             
 │   ├── Generated_datasets/          # This Folder contains all the generated datasets for training and plotting purpose
 │   ├── Mapping_Cleaning/            # This Folder contains dictionary to Replace old names of team to new and encoding and reverse encodings for team names and stadiums
-│   ├── Problem_Statement_1.ipynb    # Jupyter notebook, it contains all the exploration, plottings , feature extraction work and ipl 2025 winner prediction model 
+│   ├── PS1_Back2Back_brain_dead_2k25.ipynb    # Jupyter notebook, it contains all the exploration, plottings , feature extraction work and ipl 2025 winner prediction model 
 │   ├── Interactive_Dashboard        # We created a tableau dashboard for all the data we got for EDA, this file contains link to that dashboard
 |   ├── deliveries.csv               
 |   ├── matches.csv                  # we cant upload these 2 dataset beacuse of size limit on github
 |
 │── Problem_Statement_2/              
-|   ├── Task2_BrainDed_Final.ipynb   # Jupyter notebook, fine tuning code and evaluation code
+|   ├── PS2_Back2Back_brain_dead_2k25.ipynb   # Jupyter notebook, fine tuning code and evaluation code
 |   ├── CompScholar_summarization_evaluation_results.csv  # Benchmarking Dataset
 |   ├── Brain Dead CompScholar Dataset.csv                # Provided Dataset
 |
-│── back2back_braindead_2k25.ipynb     # Merged Notebook (Task 1 and Task 2)
-│── Project_Report.pdf               # Project report for our submission
+│── Back2Back_brain_dead_2k25.ipynb     # Merged Notebook (Task 1 and Task 2)
+│── Report_Back2Back_brain_dead_2k25.pdf               # Project report for our submission
 ```
 
 ## Our Benchmark
