@@ -19,5 +19,5 @@ Face_Unlock/
 
 ### While running our notebook please make sure that all the datasets and mapping dictionary should be there in proper directory structure
 
-## Please find our finetuned model for task_2 in release section and we also uploaded it on google drive 
+### Please find our finetuned model for task_2 in release section and we also uploaded it on google drive 
 
