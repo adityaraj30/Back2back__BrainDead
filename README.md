@@ -21,3 +21,7 @@ Face_Unlock/
 
 ### Please find our finetuned model for task_2 in release section and we also uploaded it on google drive 
 
+### Link to the Report
+
+### Link to the Model (Google Drive)
+
