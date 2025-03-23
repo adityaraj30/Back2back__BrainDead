@@ -14,6 +14,7 @@ Face_Unlock/
 |   ├── CompScholar_summarization_evaluation_results.csv  # Generated Results
 |   ├── Brain Dead CompScholar Dataset.csv                # Provided Dataset
 │── Full_Notebook_task_1&2.ipynb     # Merged Notebook (Task 1 and Task 2)
+│── Project_Report.pdf               # Project report for our submission
 ```
 
 ## While running our notebook please make sure that all the datasets and mapping dictionary should be there in proper directory structure
