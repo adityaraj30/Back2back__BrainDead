@@ -11,7 +11,7 @@ Face_Unlock/
 │   ├── Interactive_Dashboard        # We created a tableau dashboard for all the data we got for EDA, this file contains link to that dashboard
 │── Problem_Statement_2/              
 |   ├── Task2_BrainDed_Final.ipynb   # Jupyter notebook, fine tuning code and evaluation code
-|   ├── CompScholar_summarization_evaluation_results.csv  # Generated Results
+|   ├── CompScholar_summarization_evaluation_results.csv  # Benchmarking Dataset
 |   ├── Brain Dead CompScholar Dataset.csv                # Provided Dataset
 │── Full_Notebook_task_1&2.ipynb     # Merged Notebook (Task 1 and Task 2)
 │── Project_Report.pdf               # Project report for our submission
