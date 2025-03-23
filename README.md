@@ -23,11 +23,11 @@ Back2back_BrainDead/
 
 ## Our Benchmark
 | Metric        | Score  |
-|--------------|--------|
-| ROUGE-1      | 0.4622 |
-| ROUGE-2      | 0.2143 |
-| ROUGE-L      | 0.2951 |
-| BLEU         | 0.1230 |
+|--------------|---------|
+| ROUGE-1      |   46.2  |
+| ROUGE-2      |   21.4  |
+| ROUGE-L      |   29.5  |
+| BLEU         |   12.3  |
 
 
 #### While running our notebook please make sure that all the datasets and mapping dictionary should be there in proper directory structure
