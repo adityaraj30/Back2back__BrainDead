@@ -30,9 +30,9 @@ Back2back_BrainDead/
 | BLEU         | 0.1230 |
 
 
-### While running our notebook please make sure that all the datasets and mapping dictionary should be there in proper directory structure
+#### While running our notebook please make sure that all the datasets and mapping dictionary should be there in proper directory structure
 
-### Please find our finetuned model for task_2 in release section and we also uploaded it on google drive 
+#### Please find our finetuned model for task_2 in release section and we also uploaded it on google drive 
 
 ### Link to the Report https://docs.google.com/document/d/1H_8rJfXXIuqwt10YgSF5PGYY0MF34RQjFf4wrW2NaUQ/edit?usp=sharing
 
