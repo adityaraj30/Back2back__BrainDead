@@ -17,7 +17,7 @@ BrainDead/
 |   ├── CompScholar_summarization_evaluation_results.csv  # Benchmarking Dataset
 |   ├── Brain Dead CompScholar Dataset.csv                # Provided Dataset
 |
-│── Full_Notebook_task_1&2.ipynb     # Merged Notebook (Task 1 and Task 2)
+│── back2back_braindead_2k25.ipynb     # Merged Notebook (Task 1 and Task 2)
 │── Project_Report.pdf               # Project report for our submission
 ```
 
