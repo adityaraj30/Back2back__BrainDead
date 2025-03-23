@@ -27,5 +27,5 @@ BrainDead/
 
 ### Link to the Report https://docs.google.com/document/d/1H_8rJfXXIuqwt10YgSF5PGYY0MF34RQjFf4wrW2NaUQ/edit?usp=sharing
 
-### Link to the Model (Google Drive)
+### Link to the Model (Google Drive) https://drive.google.com/drive/folders/1tYbMmf66UNj9tPwPKb9_vLzmH9L-ZvVn?usp=sharing
 
