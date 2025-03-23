@@ -21,7 +21,7 @@ Back2back_BrainDead/
 │── Project_Report.pdf               # Project report for our submission
 ```
 
-## Summary Statistics
+## Our Benchmark
 | Metric        | Score  |
 |--------------|--------|
 | ROUGE-1      | 0.4622 |
