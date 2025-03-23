@@ -25,7 +25,7 @@ BrainDead/
 
 ### Please find our finetuned model for task_2 in release section and we also uploaded it on google drive 
 
-### Link to the Report
+### Link to the Report https://docs.google.com/document/d/1H_8rJfXXIuqwt10YgSF5PGYY0MF34RQjFf4wrW2NaUQ/edit?usp=sharing
 
 ### Link to the Model (Google Drive)
 
