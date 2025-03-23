@@ -3,7 +3,7 @@
 ## Project Structure
 
 ```
-BrainDead/
+Back2back_BrainDead/
 │── Problem_Statement_1/             
 │   ├── Generated_datasets/          # This Folder contains all the generated datasets for training and plotting purpose
 │   ├── Mapping_Cleaning/            # This Folder contains dictionary to Replace old names of team to new and encoding and reverse encodings for team names and stadiums
